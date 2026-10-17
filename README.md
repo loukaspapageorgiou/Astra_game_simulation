@@ -1,2 +1,2 @@
 # Astra_game_simulation
-Μια δισδιάστατη (2D) εφαρμογή προσομοίωσης διαστημοπλοίων γραμμένη σε Java (Swing & AWT), η οποία εφαρμόζει τις βασικές αρχές του Αντικειμενοστρεφούς Προγραμματισμού
+A two-dimensional (2D) spaceship simulation application written in Java (Swing & AWT), which implements the fundamental principles of Object-Oriented Programming.
